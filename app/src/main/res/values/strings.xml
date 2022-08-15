@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="txt_valor1">Ingresa primer valor</string>
+    <string name="txt_valor2">Ingresa segundo valor</string>
+    <string name="button">Calcular</string>
+    <string name="cb1">Sumar</string>
+    <string name="cb2">Restar</string>
+    <string name="TextView_resultado">Resultado</string>
+</resources>
